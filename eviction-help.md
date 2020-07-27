@@ -7,6 +7,7 @@ _please place links to resources or typed up advice under the proper heading. Fe
 ## I haven’t been able to pay rent for several months and my landlord is threatening eviction. 
 
 ## I am being evicted and I need help fighting it. 
+- Legal Aid Cleveland: https://lasclev.org/get-help/housing/ 
 
 ## I’ve lost my home and need help finding somewhere to live. 
 
